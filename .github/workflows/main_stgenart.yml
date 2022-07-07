@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'stgenart'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A5B6AA7EFF5C482B92A5A14A49CEB42F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E259B73191EE4FFC95143FB19AB9C4AE }}
